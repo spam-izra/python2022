@@ -1,0 +1,4 @@
+graph Example {
+    a -- b -- c;
+    b -- d;
+}

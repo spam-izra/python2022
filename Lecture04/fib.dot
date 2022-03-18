@@ -1,0 +1,27 @@
+graph Example {
+    a [label="5"];
+    
+    b [label="3"];
+    c [label="2"];
+    
+    d [label="2"]
+    e [label="1"]
+    
+    f [label="1"]
+    g [label="1"]
+    
+    h [label="1"]
+    i [label="1"]
+    
+    a -- b
+    a -- c
+    
+    b -- d
+    b -- e
+    
+    d -- f
+    d -- g
+    
+    c -- h
+    c -- i
+}

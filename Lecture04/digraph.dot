@@ -1,0 +1,5 @@
+digraph Example {
+    a -> b -> c;
+    b -> d;
+    a -> a;
+}

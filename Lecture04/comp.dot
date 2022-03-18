@@ -1,0 +1,12 @@
+graph Example {
+    a [label="+"];
+    b [label="2"];
+    c [label="*"];
+    d [label="2"];
+    e [label="2"];
+    
+    a -- b
+    a -- c
+    c -- d
+    c -- e
+}
